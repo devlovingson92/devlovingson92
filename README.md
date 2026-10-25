@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/prQDMXY8/Modern-Web-Designer-Portfolio-Banner-upscaled.png" alt="Modern Web Designer WordPress Developer Portfolio" border="0">
+<img src="https://i.ibb.co.com/ZzxZjzJ9/Cyber-Portfolio-Workspace-Banner-Picsart-Ai-Image-Enhancer.png" alt="Web Designer WordPress Developer Portfolio" border="0">
 <h3 align="center">I am a passionate Website Designer and Developer with 2 years of experience in creating modern, responsive, and user-friendly websites. I specialize in website design, WordPress development, and website customization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlovingson92&label=Profile%20views&color=0e75b6&style=flat" alt="devlovingson92" /> </p>
